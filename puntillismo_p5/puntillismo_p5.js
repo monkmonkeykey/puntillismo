@@ -15,8 +15,7 @@ let figurasPorFotograma = 50;
 // 2. Carga de recursos
 
 function preload() {
-  // Cargamos la imagen antes de iniciar el programa.
-  imagen = loadImage("3.jpg");
+  imagen = loadImage("data/3.jpg");
 }
 
 
