@@ -22,5 +22,5 @@ function draw() {
   // Coordenadas actuales.
   fill(30);
   textSize(16);
-  text("X: " + posX + "  Y: " + posY, 20, 30);
+  text("X: " + int(posX) + "  Y: " + int(posY), 20, 30);
 }
