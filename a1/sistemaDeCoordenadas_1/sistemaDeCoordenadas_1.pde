@@ -1,6 +1,8 @@
-
+int posX, posY;
 void setup() {
   size(600, 400);
+  posX = width/2;
+  posY = height/2;
 }
 
 void draw() {
